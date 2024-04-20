@@ -30,4 +30,7 @@ console.log('Hello world');
 >> Люблю учиться получается
 >>>И работать
 
-![Альтернативный текст](https://flomaster.top/uploads/posts/2023-01/1673513966_flomaster-club-p-yeralash-risunok-pinterest-1.jpg)
+![Паервый комит](https://flomaster.top/uploads/posts/2023-01/1673513966_flomaster-club-p-yeralash-risunok-pinterest-1.jpg)
+
+
+![Второй комит](https://l-files.livejournal.net/og_image/11723453/439?v=1597500326)
